@@ -19,7 +19,7 @@ See the presentation 1
 
 
 ## Activity Diagram
-![ActivityDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424640-a7d5da6d-f481-4e67-9e86-1212c3861003.png)![Uploading diagram.png…]()
+![ActivityDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424640-a7d5da6d-f481-4e67-9e86-1212c3861003.png)
 
 
 ## Component Diagram
