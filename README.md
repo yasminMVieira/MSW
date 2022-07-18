@@ -14,14 +14,17 @@ See the presentation 1
 ![diagram](https://user-images.githubusercontent.com/91732850/179424660-f4744d22-67e7-47cb-830e-771b9aba3dea.png)
 
 
-## Class Diagram
-![ClassDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424625-5f039e30-322f-48c3-b6b7-30ea4b3b8126.png)
-
-
 ## Activity Diagram
 ![ActivityDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424640-a7d5da6d-f481-4e67-9e86-1212c3861003.png)
 
 
+## Sequence Diagram 
+![sequenceDiagram](https://user-images.githubusercontent.com/91732850/179514149-8267b70c-a07d-45cd-a45f-c8e27fef88e1.png)
+
+
+## Class Diagram
+![ClassDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424625-5f039e30-322f-48c3-b6b7-30ea4b3b8126.png)
+
+
 ## Component Diagram
 ![ComponentGrades+](https://user-images.githubusercontent.com/91732850/179424642-1933ab75-347b-40f5-a924-1be9ee63362d.png)
-
