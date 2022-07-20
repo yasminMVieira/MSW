@@ -19,7 +19,7 @@ See the presentation 1
 
 
 ## Sequence Diagram 
-![sequenceDiagram](https://user-images.githubusercontent.com/91732850/179514149-8267b70c-a07d-45cd-a45f-c8e27fef88e1.png)
+![SequenceDiagram](https://user-images.githubusercontent.com/91732850/180078166-29f752cc-b22c-490e-95bb-36349211e064.png)
 
 
 ## Class Diagram
@@ -28,3 +28,4 @@ See the presentation 1
 
 ## Component Diagram
 ![ComponentGrades+](https://user-images.githubusercontent.com/91732850/179424642-1933ab75-347b-40f5-a924-1be9ee63362d.png)
+
