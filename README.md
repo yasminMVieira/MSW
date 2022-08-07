@@ -5,7 +5,7 @@
 - [x] Etapa 1
 - [x] Etapa 2
 - [x] Etapa 3
-- [ ] Etapa 4
+- [x] Etapa 4
 
 See the presentation 1
 🖥👉🏻 https://www.canva.com/design/DAFBPukR-UI/TlAniUtZiLCXi6GsPRSUNg/view?utm_content=DAFBPukR-UI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
@@ -28,5 +28,5 @@ See the presentation 1
 
 
 ## Component Diagram
-![ComponentGrades+](https://user-images.githubusercontent.com/91732850/179424642-1933ab75-347b-40f5-a924-1be9ee63362d.png)
+![image](https://user-images.githubusercontent.com/91732850/183307420-79cc0d3a-a666-40e7-8d1d-83bc98914e1d.png)
 
