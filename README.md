@@ -16,11 +16,16 @@ See the presentation 1
 
 ## Activity Diagram
 ![ActivityDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424640-a7d5da6d-f481-4e67-9e86-1212c3861003.png)
+![image](https://user-images.githubusercontent.com/91732850/183309335-70b2fc48-3190-41ec-bc19-a1d252e65515.png)
 
 
 ## Sequence Diagram 
 ![image](https://user-images.githubusercontent.com/91732850/183306887-8bfe256d-a916-45a1-bebd-da763814ae8b.png)
 ![image](https://user-images.githubusercontent.com/91732850/183306893-63daa56f-40cf-45a2-b7bb-7bec6f752200.png)
+
+
+## Communication Diagram
+![image](https://user-images.githubusercontent.com/91732850/183308886-69f6c4a4-9c65-4a63-a693-0db745e532b5.png)
 
 
 ## Class Diagram
