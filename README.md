@@ -11,7 +11,7 @@ See the presentation 1
 🖥👉🏻 https://www.canva.com/design/DAFBPukR-UI/TlAniUtZiLCXi6GsPRSUNg/view?utm_content=DAFBPukR-UI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Use Case Diagram
-![diagram](https://user-images.githubusercontent.com/91732850/179424660-f4744d22-67e7-47cb-830e-771b9aba3dea.png)
+![image](https://user-images.githubusercontent.com/91732850/183306908-0c48d634-5e07-4766-91f3-17165fe3fd5d.png)
 
 
 ## Activity Diagram
@@ -19,11 +19,12 @@ See the presentation 1
 
 
 ## Sequence Diagram 
-![SequenceDiagram](https://user-images.githubusercontent.com/91732850/180078166-29f752cc-b22c-490e-95bb-36349211e064.png)
+![image](https://user-images.githubusercontent.com/91732850/183306887-8bfe256d-a916-45a1-bebd-da763814ae8b.png)
+![image](https://user-images.githubusercontent.com/91732850/183306893-63daa56f-40cf-45a2-b7bb-7bec6f752200.png)
 
 
 ## Class Diagram
-![ClassDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424625-5f039e30-322f-48c3-b6b7-30ea4b3b8126.png)
+![image](https://user-images.githubusercontent.com/91732850/183306868-7ce6c64c-4384-484a-b11b-36de79364b92.png)
 
 
 ## Component Diagram
