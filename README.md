@@ -45,3 +45,6 @@ See the presentation 1
 ## Component Diagram
 ![image](https://user-images.githubusercontent.com/91732850/184186534-e31e2b01-7d5d-4c57-a220-e70529743124.png)
 
+
+## Deployment Diagram
+![image](https://user-images.githubusercontent.com/91732850/184192691-ca189970-e590-43e2-86e0-927685d06f1e.png)
