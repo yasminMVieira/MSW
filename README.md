@@ -43,5 +43,5 @@ See the presentation 1
 
 
 ## Component Diagram
-![image](https://user-images.githubusercontent.com/91732850/183307420-79cc0d3a-a666-40e7-8d1d-83bc98914e1d.png)
+![image](https://user-images.githubusercontent.com/91732850/184186534-e31e2b01-7d5d-4c57-a220-e70529743124.png)
 
