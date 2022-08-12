@@ -26,6 +26,7 @@ See the presentation 1
 ![image](https://user-images.githubusercontent.com/91732850/183317367-7af4f427-3e01-43fe-af2c-265ad9d6d7a6.png)
 ![image](https://user-images.githubusercontent.com/91732850/183317384-e2ed98aa-c825-4de3-a824-c37e59843a95.png)
 ![image](https://user-images.githubusercontent.com/91732850/183317398-5db7b0c2-bef9-4cba-92d4-b7e4aecc3a9d.png)
+![Criar atividade_novo](https://user-images.githubusercontent.com/89541614/184348207-0ea5e41f-13d8-4eb4-a723-66bf91595cc6.png)
 
 
 
