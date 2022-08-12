@@ -15,16 +15,27 @@ See the presentation 1
 
 
 ## Activity Diagram
+Caso de uso: Cadastrar Matéria
 ![ActivityDiagramGrades+](https://user-images.githubusercontent.com/91732850/179424640-a7d5da6d-f481-4e67-9e86-1212c3861003.png)
+Caso de uso: Inscrever em Matéria
 ![image](https://user-images.githubusercontent.com/91732850/183309335-70b2fc48-3190-41ec-bc19-a1d252e65515.png)
+Caso de uso: Acessar matérias
 ![image](https://user-images.githubusercontent.com/91732850/183317208-cfe10bfb-52de-4141-b280-f8da16443686.png)
+Caso de uso: Autenticar usuário
 ![image](https://user-images.githubusercontent.com/91732850/183317216-e3526306-1166-4deb-854c-c52cd3023985.png)
+Caso de uso: Cadastrar usuário
 ![image](https://user-images.githubusercontent.com/91732850/183317253-70b3da41-c232-4b2e-9456-de3fe684621d.png)
+Caso de uso: Controle de frequência
 ![image](https://user-images.githubusercontent.com/91732850/183317306-6543e5f7-c8cf-443a-9272-e3c46572888e.png)
+Caso de uso: Gerenciar matérias
 ![image](https://user-images.githubusercontent.com/91732850/183317346-8cb4f864-91b5-416e-8e95-3ba63f1d1e77.png)
+Caso de uso: Criar atividade
 ![Criar atividade_novo](https://user-images.githubusercontent.com/89541614/184348207-0ea5e41f-13d8-4eb4-a723-66bf91595cc6.png)
+Caso de uso: Gerenciar notas
 ![image](https://user-images.githubusercontent.com/91732850/183317367-7af4f427-3e01-43fe-af2c-265ad9d6d7a6.png)
+Caso de uso: Marcar vista
 ![image](https://user-images.githubusercontent.com/91732850/183317384-e2ed98aa-c825-4de3-a824-c37e59843a95.png)
+Caso de uso: Solicitar vista
 ![image](https://user-images.githubusercontent.com/91732850/183317398-5db7b0c2-bef9-4cba-92d4-b7e4aecc3a9d.png)
 
 
